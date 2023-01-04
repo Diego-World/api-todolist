@@ -1,0 +1,23 @@
+
+
+
+									+ Avaliador Técnico Comeia +
+									
+									
+		Esse projeto foi construido utilizando React para a UI, 
+		utilizando o Mui Framework para a componentização e ReactQuery para leitura de dados da API.
+		
+		A API foi construida usando a IDE intelliJ, o Spring Framework e a arquitetura REST, utilizando do metódos HTTP POST, GET, DELETE E PATCH
+		
+		Para o banco de dados foi utilizado o banco ded dados relacional H2 para facilitar o funcionamento da aplicação.
+		
+		Para iniciar o projeto é necessário o node.js e yarn dev, no terminal da SPA(aplicação web) execute os comandos "npm i" e "yarn dev" para iniciar. (sem as aspas)
+		na porta local "http://localhost:5173/"
+		
+		Note que, para visualização completa dos recursos a API deve estar em execução.
+		
+		Os metódos estão mapeados no postman e deixei uma collection disponível aqui no repositório.
+		
+		
+		
+		
